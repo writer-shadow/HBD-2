@@ -76,7 +76,11 @@ a {
 .space {
   margin-right: 150px;
 }
-
+img {
+  width: 100%;
+  height: auto;
+  display: block; /* Optional: removes bottom gap below images */
+}
 #message-box{
   position: absolute;
   margin-top:450px;
