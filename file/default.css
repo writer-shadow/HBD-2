@@ -57,9 +57,9 @@ a {
   font-size: 64px;
 }
 #canvas {
-  width: 100vw;
-  height: 100vh;
-  display:block;
+  margin: 0 auto;
+  width: 1100vw;
+  height: 680vh;
 }
 #error {
   margin: 0 auto;
